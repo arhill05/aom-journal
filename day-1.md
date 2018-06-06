@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+## Day 1
+### *Why do you want to journal? What would you like to get out of it?*
+#### 6/6/2018
+
+I have way too many things going on in my head at any given moment. I have a very hard time focusing on one thing for long periods of time, unless it is an activity that is super engaging (like software development!). I need a way to be able to sit down and focus on getting my thoughts out of my head into something tangible.
+
+I have a bad habit of trying to start doing something and then letting it fall by the wayside. I'll go at something for a couple of weeks, and then forget about it either because I actually forgot or I just lose motivation.
+
+I need to give myself a way to reflect on the things that I am doing and the thoughts that I have as I progress further in my career and my life. Right now, I'm just taking things as they come. I want to be more proactive in planning both my short and long term goals, and be able to look back and reflect on my progress as I continue through life.
+
+Journaling will give me all of these things. Sitting down for 10, 20, or 30 minutes a day to focus on writing about what is in my head, with a prompt or not, will help me in my efforts to increase my attention span and help me learn how to better focus on tasks at hand. A 31 day challenge that takes less than 30 minutes a day has no excuse to be thrown off to the side, so I will finish this even if I have to skip a day or two. Lastly, journaling by default will give me points of reference that I can go back and reflect upon the things that I write on a daily basis. I will be able to see a timeline of my thoughts at any given point. Hopefully reflecting on this in the future will be of some value.
+
+---
+[Back](./)
