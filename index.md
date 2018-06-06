@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## The Art of Manliness Journal Jumpstart
 
 Here are my random ramblings that try to follow along with the points illustrated in the [Art of Manliness Journaling Challenge](https://www.artofmanliness.com/articles/jumpstart-your-journaling-a-31-day-challenge/). Feel free to leave any feedback you may have, or just start a conversation with me at me@andrewhill.io.
