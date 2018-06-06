@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## The Art of Manliness Journal Jumpstart
 
-You can use the [editor on GitHub](https://github.com/arhill05/aom-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are my random ramblings that try to follow along with the points illustrated in the [Art of Manliness Journaling Challenge](https://www.artofmanliness.com/articles/jumpstart-your-journaling-a-31-day-challenge/). Feel free to leave any feedback you may have, or just start a conversation with me at me@andrewhill.io.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arhill05/aom-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>Doing something for around 30 days is a great way to not only build a habit, but to also explore if it’s right for you. Maybe journaling isn’t for you, and you just have never taken the time to really prove that to yourself. Or maybe you love the practice, and simply haven’t gotten into the habit yet. Either way, I hope this calendar presents you with ample opportunity to take the journaling bull by the horns and experience all its benefits.
