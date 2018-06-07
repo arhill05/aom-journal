@@ -8,5 +8,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 >Doing something for around 30 days is a great way to not only build a habit, but to also explore if it’s right for you. Maybe journaling isn’t for you, and you just have never taken the time to really prove that to yourself. Or maybe you love the practice, and simply haven’t gotten into the habit yet.
 
-### Entries
-[[6/6/2018] Day 1 - Why do you want to journal? What would you like to get out of it?](./day-1)
+## Entries
+### [[6/6/2018] Day 1 - Why do you want to journal? What would you like to get out of it?](./day-1)
+### [[6/7/2018] Day 2 - Manliness has been defined in different ways in different times. What does manliness mean to you?](./day-2)

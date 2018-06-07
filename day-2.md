@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+## Day 2
+### *Manliness has been defined in different ways in different times. What does manliness mean to you?*
+#### 6/7/2018
+
+Manliness to me isn't masculinity. It isn't being buff and good looking and attracting all the girls, or being super wealthy and driving fancy cars and eating surf-and-turf for dinner every evening. Those things are nice, sure, but they aren't "manly" in my opinion. Manliness to me is being humble, knowing your place, and constantly working towards success despite the challenges you may encounter.
+
+> Manliness is being humble, knowing your place, and constantly working towards success despite the challenges you may encounter.
+
+You could be the smartest person in the room (which you should strive to never have that be the case anyway), but if you aren't humble about it there are few people who will respect your opinion. No one likes an asshole or a braggart -- use your knowledge to lead others to success and educate them in a way that will help them move further towards their own goals. Never take what you know for granted, because at one point you didn't know everything you do now.
+
+Know your place, know when to speak out, and know when to shut up. There are some battles that are worth fighting, but often times it's much better to choose not to fight a battle and learn from the experience. If you care passionately about something and can advocate for it immensely, then don't give up until you accomplish what you want. On the flipside, if you know little about a topic and the outcome won't affect you significantly, it's not worth investing yourself in. This goes back to the idea of being humble and realizing that you likely don't know everything.
+
+> Great work requires hard work
+
+If you are not constantly working towards success, you will struggle to achieve it. The challenges that come your way could something small, like the lack of motivation to get out of bed in the morning because you're just *too* tired. Having the discipline and willpower to overcome those challenges and continue on the path of success is a key part of manliness, in my opinion. Great work requires hard work.
