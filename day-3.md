@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+## Day 3
+### *Decide on one positive habit you’d like to implement in your life. Whether seemingly mundane (flossing) or perhaps life-altering (exercising), write out the steps you’ll take to get there.*
+#### 6/7/2018
+
+I guess it'd be a bit dumb to suggest that journaling is the positive habit I'd like to implement in my life, because that'd be the easy way out!
+
+Honestly, I have two habits that I've been working hard on recently. The first is getting myself more organized and being more productive. My mind has been a scattered mess for as long as I can remember: Where did I put my keys? Oh I need to remember to do that thi- what am I having for lunch? I haven't looked over my favorite subreddits in the past 20 minutes, better do that. Wait, what did that guy ask me to do?
+
+Organizing my thoughts and writing out all of the things I have to do every day has started to increase my productivity, but I can take it further. What started as writing a simple list every day has turned into adopting a productivity strategy called [Getting Things Done by David Allen](https://gettingthingsdone.com/). I've paid for a premium [Todoist](https://en.todoist.com/) subscription, created several projects that group relevant tasks together, and created meaningful labels to show the energy level required to complete those tasks. Every day I make an effort to enter the tasks I need to accomplish in this system so I can organize them, prioritize them and then take action on them. This allows me to know what I'm working towards every day, and makes sure that things I need to do don't get forgotten.
+
+> ### Far too often I think "I'll remember that, no problem!"
+
+I need to work on putting more and more tasks in this system. Far too often I think "I'll remember that, no problem!" and then forget about it until a week later when what I was supposed to accomplish stares me in the face because I failed to remember to do it. I need to also solidify the prioritization system and make sure I'm organizing the tasks effectively and choosing my priorities wisely. Lastly, I need to take a weekly review seriously. Reviewing the tasks still on my list as well as the tasks I have accomplished allow me to reflect on the work I've done on a regular basis.
+
+The other habit I would love to implement is just being more active. I'm not talking about running daily, or becoming a mountain climber; I'm talking about just getting up and walking every once in a while. I sit at a desk for 8-9 hours a day at work and continue much of the same a lot of times when I get home. Something as simple as taking my dog for a walk more often will help tremendously to get me off my lazy butt and help me feel a bit better.
+
+I'm already doing some of this, though. At lunch I get into some intense games of ping-pong with my coworkers almost daily. While this may not sound like it's very active, I definitely break a sweat almost every time I play. I've also started weight lifting again after an almost month long hiatus, and I intend to continue doing that three times a week. I can continue improving on this by making it a point to get up and walk around for 10 minutes or so at work every once in a while, or taking my dog for a walk when it's nice out, or taking advantage of my standing desk that my company has provided me.
+
+There are a lot of things that I want to work on, but many of them are long term goals. These two things are what stood out to me as small actions that I can turn into a habit if I keep at them long enough. Knowing what I need to do to progress those habits further will definitely keep them in my sights.
+
+---
+[Back](./)
