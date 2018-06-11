@@ -23,4 +23,4 @@ I'm already doing some of this, though. At lunch I get into some intense games o
 There are a lot of things that I want to work on, but many of them are long term goals. These two things are what stood out to me as small actions that I can turn into a habit if I keep at them long enough. Knowing what I need to do to progress those habits further will definitely keep them in my sights.
 
 ---
-[Back](./)
+[Day 2](.day-2) | [Home](./) | [Day 4](.day-4)

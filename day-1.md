@@ -15,4 +15,4 @@ I need to give myself a way to reflect on the things that I am doing and the tho
 Journaling will give me all of these things. Sitting down for 10, 20, or 30 minutes a day to focus on writing about what is in my head, with a prompt or not, will help me in my efforts to increase my attention span and help me learn how to better focus on tasks at hand. A 31 day challenge that takes less than 30 minutes a day has no excuse to be thrown off to the side, so I will finish this even if I have to skip a day or two. Lastly, journaling by default will give me points of reference that I can go back and reflect upon the things that I write on a daily basis. I will be able to see a timeline of my thoughts at any given point. Hopefully reflecting on this in the future will be of some value.
 
 ---
-[Back](./)
+[Home](./) | [Day 2](.day-2)

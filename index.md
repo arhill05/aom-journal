@@ -17,3 +17,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/8/2018] Day 3 - Decide on one positive habit you’d like to implement in your life. Whether seemingly mundane (flossing) or perhaps life-altering (exercising), write out the steps you’ll take to get there.](./day-3)
 > I guess it'd be a bit dumb to suggest that journaling is the positive habit...
+
+### [[6/11/2018] Day 4 - Via negativa; today, pick a habit that you’d like to eliminate from your life. Think about the steps you’ll take to get rid of that negative habit, as well as how to keep yourself accountable.](./day-4)
+> Oh man, bad habits. I have a ton of them. I have a terrible habit of chewing my fingernails, I hit the snooze button too often in the morning, I eat too much junk food, and I spend too much money on things that don't matter. Even though these things are bad...
