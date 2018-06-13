@@ -23,3 +23,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/12/2018] What is your greatest dream in life?](./day-5)
 > My greatest dream in life can be summed up pretty easily: to be successful. Success, however, has different meanings depending on who you ask. Success to me is many things...
+
+### [[6/13/2018] Write a 6-word memoir of your life so far; that is, describe your life in one six-word sentence. With this limitation, you really have to filter your life to what you deem most important.](./day-6)
+> Putting a short summary on this one would be cheating! You'll have to read this one to see my answer.
