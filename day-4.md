@@ -33,6 +33,6 @@ I know this is a problem. I know it is hindering my success both short term and 
 
 
 ---
-[Day 3](./day-3) | [Home](./)
+[Day 3](./day-3) | [Home](./) | [Day 5](./day-5)
 
 *Unrelated: I've decided that most weekends I will not create journal entries, as I have no need to be super productive like I do at work. I use this for a lot of things -- one of them being to put me in a productive mindset. I like to relax and work on other things on the weekends, so this will continue through weekdays unless I'm feeling super productive. I may change this later on, but that's the plan for now.*
