@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Day 4
+## Day 6
 ### *Write a 6-word memoir of your life so far; that is, describe your life in one six-word sentence. With this limitation, you really have to filter your life to what you deem most important.*
 #### 6/13/2018
 
