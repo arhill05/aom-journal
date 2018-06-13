@@ -21,8 +21,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 ### [[6/11/2018] Day 4 - Via negativa; today, pick a habit that you’d like to eliminate from your life. Think about the steps you’ll take to get rid of that negative habit, as well as how to keep yourself accountable.](./day-4)
 > Oh man, bad habits. I have a ton of them. I have a terrible habit of chewing my fingernails, I hit the snooze button too often in the morning, I eat too much junk food, and I spend too much money on things that don't matter. Even though these things are bad...
 
-### [[6/12/2018] What is your greatest dream in life?](./day-5)
+### [[6/12/2018] Day 5 - What is your greatest dream in life?](./day-5)
 > My greatest dream in life can be summed up pretty easily: to be successful. Success, however, has different meanings depending on who you ask. Success to me is many things...
 
-### [[6/13/2018] Write a 6-word memoir of your life so far; that is, describe your life in one six-word sentence. With this limitation, you really have to filter your life to what you deem most important.](./day-6)
+### [[6/13/2018] Day 6 - Write a 6-word memoir of your life so far; that is, describe your life in one six-word sentence. With this limitation, you really have to filter your life to what you deem most important.](./day-6)
 > Putting a short summary on this one would be cheating! You'll have to read this one to see my answer.
