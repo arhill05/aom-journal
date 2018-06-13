@@ -30,4 +30,4 @@ If I continue devoting efforts to fostering relationships with the people I am a
 As I said before, success has many different meanings. Writing something like this out helps me understand what the highest level long-term goals I should have are. I know what I want to accomplish in life -- the next step is figuring out how to get there. I hope this helps you understand what success means to you.
 
 ---
-[Day 4](.day-4) | [Home](./)
+[Day 4](./day-4) | [Home](./) | [Day 6](./day-6)
