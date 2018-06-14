@@ -19,4 +19,4 @@ How life works is something that I think very few, if any, people understand. Ho
 This one was hard. Just like the prompt says, you have to stop and think really hard about what is most important in your life. An exercise like this really puts your priorities into a perspective that is easier to understand.
 
 ---
-[Day 5](./day-5) | [Home](./)
+[Day 5](./day-5) | [Home](./) | [Day 7](./day-7)

@@ -26,3 +26,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/13/2018] Day 6 - Write a 6-word memoir of your life so far; that is, describe your life in one six-word sentence. With this limitation, you really have to filter your life to what you deem most important.](./day-6)
 > Putting a short summary on this one would be cheating! You'll have to read this one to see my answer.
+
+### [[6/14/2018] Day 7 - You’ve made it one week! Reflect on what this newfound practice of journaling has been like. Have you enjoyed it? Has it been difficult? Has it been what you expected?](./day-7)
+> Even though I didn't create any new journal entries on the weekend, this is a very useful thing to me. I'm creating these entries first thing...
