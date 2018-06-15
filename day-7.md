@@ -15,4 +15,4 @@ This experience has been different than what I expected, honestly. I expected to
 I enjoy this practice so much that I intend to continue doing it even after the 31 days of prompts from this Art of Manliness journaling exercise are finished. It's been nothing but beneficial.
 
 ---
-[Day 6](./day-6) | [Home](./)
+[Day 6](./day-6) | [Home](./) | [Day 8](./day-8)

@@ -29,3 +29,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/14/2018] Day 7 - You’ve made it one week! Reflect on what this newfound practice of journaling has been like. Have you enjoyed it? Has it been difficult? Has it been what you expected?](./day-7)
 > Even though I didn't create any new journal entries on the weekend, this is a very useful thing to me. I'm creating these entries first thing...
+
+### [[6/15/2018] Day 8 - Take some time to reflect on your career. Jot down a timeline of it. What was your best experience? The worst? What would you like your future to look like in regards to work?](./day-8)
+> I guess my career really started in high school. When I was younger, I thought I wanted to be a game designer. Once I got to high school, I had the opportunity to take a basic web design course. This involved...
