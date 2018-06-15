@@ -19,4 +19,4 @@ Know your place, know when to speak out, and know when to shut up. There are som
 If you are not constantly working towards success, you will struggle to achieve it. The challenges that come your way could something small, like the lack of motivation to get out of bed in the morning because you're just *too* tired. Having the discipline and willpower to overcome those challenges and continue on the path of success is a key part of manliness, in my opinion. Great work requires hard work.
 
 ---
-[Day 1](.day-1) | [Home](./) | [Day 3](.day-3)
+[Day 1](./day-1) | [Home](./) | [Day 3](./day-3)
