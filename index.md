@@ -33,5 +33,5 @@ Here are my random ramblings that try to follow along with the points illustrate
 ### [[6/15/2018] Day 8 - Take some time to reflect on your career. Jot down a timeline of it. What was your best experience? The worst? What would you like your future to look like in regards to work?](./day-8)
 > I guess my career really started in high school. When I was younger, I thought I wanted to be a game designer. Once I got to high school, I had the opportunity to take a basic web design course. This involved...
 
-### [[6/18/2018] Day 9 - Simply write about your day. What time you woke up, what your commute was like, what you did at work, how you spent your evening. (If you’re journaling in the mornings, write about the previous day.)]
+### [[6/18/2018] Day 9 - Simply write about your day. What time you woke up, what your commute was like, what you did at work, how you spent your evening. (If you’re journaling in the mornings, write about the previous day.)](./day-9)
 > Yesterday was a Sunday, so I woke up late. I normally sleep in on Sundays anyway, but I slept in until about 9:30-10:00 which is a lot later than I sleep until even on the weekends. Maybe I...
