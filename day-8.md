@@ -21,4 +21,4 @@ In the future, I would love to work for myself. I mentioned in a different entry
 I've got a long way to go in my career, but it's been very useful to sit down and reflect on the steps that I've taken to get to where I am now.
 
 ---
-[Day 7](./day-7) | [Home](./)
+[Day 7](./day-7) | [Home](./) | [Day 9](./day-9)

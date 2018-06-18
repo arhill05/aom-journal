@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+## Day 9
+### *Simply write about your day. What time you woke up, what your commute was like, what you did at work, how you spent your evening. (If you’re journaling in the mornings, write about the previous day.)*
+#### 6/18/2018
+
+Yesterday was a Sunday, so I woke up late. I normally sleep in on Sundays anyway, but I slept in until about 9:30-10:00 which is a lot later than I sleep until even on the weekends. Maybe I stayed up too late the night before -- who knows? Once I got out of bed, I made two eggs-in-a-basket for myself and my fiancee. If you don't know what an egg-in-a-basket is, you're missing out. You take a piece of toast and cut a hole in the middle, put it in a greased pan, put some butter in the hole, and then crack an egg into the hole and fry it inside the bread. Toast the cutout and voila, you have an egg-in-a-basket. They're a super easy breakfast and are quite delicious.
+
+After I ate breakfast, I went outside to mow the lawn while my fiancee cleaned our small animals' cages. We have a mini petting zoo in our house, consisting of two guinea pigs, a rabbit, and a Corgi. Contrary to what you may believe, the small animals require more maintenance than our Corgi! Once I finished mowing the lawn, I came inside to get ready to leave the house.
+
+Yesterday was also Father's Day, and we went to visit my fiancee's parents. They live about an hour away and own an 8 acre plot of land with a pool, so naturally we had tons of people out for a cookout and swimming. The day was spent playing cornhole, swimming, eating good food, and enjoying good company. After everyone but my fiancee's parents, her, and myself had left, we had an opportunity to have a discussion about wedding planning, and a potential business venture her dad had talked to me about prior.
+
+Not much else happened yesterday. I got a little sunburnt and came home a little later than what would've been ideal, but I was in bed by 10:30pm and slept great. Overall, yesterday was a pretty great day.
+
+This may not be the most interesting journal entry ever, but it's awesome to look back on the previous day and see what stood out to you as important and reflect on how you felt throughout the day.
+
+---
+[Day 8](./day-8) | [Home](./)
