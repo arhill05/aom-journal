@@ -37,3 +37,6 @@ The Call to Adventure - The Hero realizes that there is a larger world that he c
 ---
 
 Knowing each of the steps of the Hero's Journey allows you to understand changes happening in your life and the path to your end goal(s) in life. Anything can fit into at least one of the stages above.
+
+---
+[Day 10](./day-10) | [Home](./)
