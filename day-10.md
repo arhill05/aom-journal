@@ -6,7 +6,7 @@ layout: default
 ### *Identify where you are in the hero’s journey. You can take it in the context of your entire life, or within the context of a certain phase of life.*
 #### 6/19/2018
 
-*Before you read my answer here, it's important to understand what the Hero's Journey is. I wrote my own short summary [here](../heros-journey-summary), but the Art of Manliness does a deeper dive and very clearly explains what it is and how it applies to everyone's life [here](https://www.artofmanliness.com/articles/heros-journey/).*
+*Before you read my answer here, it's important to understand what the Hero's Journey is. I wrote my own short summary [here](./heros-journey-summary), but the Art of Manliness does a deeper dive and very clearly explains what it is and how it applies to everyone's life [here](https://www.artofmanliness.com/articles/heros-journey/).*
 
 ---
 
