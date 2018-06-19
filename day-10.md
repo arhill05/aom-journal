@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+## Day 10
+### *Identify where you are in the hero’s journey. You can take it in the context of your entire life, or within the context of a certain phase of life.*
+#### 6/19/2018
+
+*Before you read my answer here, it's important to understand what the Hero's Journey is. I wrote my own short summary [here](../heros-journey-summary), but the Art of Manliness does a deeper dive and very clearly explains what it is and how it applies to everyone's life [here](https://www.artofmanliness.com/articles/heros-journey/).*
+
+---
+
+I feel like I've gone through the Hero's Journey several times in life already. Going to college and learning exactly what I wanted to do along with the people I met to help me get there seems that it was an entire cycle of the Hero's Journey in and of itself. I'm still young, so it is hard for me to really know where I am in the Hero's Journey in the context of my entire life. If I had to answer that, I'd say that I'm really in the Ordinary World -- I'm waking up, going to work, and coming home. There's nothing really transformative happening in my life right now, other than planning a wedding of course.
+
+> ### I'm still young, so it is hard for me to really know where I am in the Hero's Journey in the context of my entire life
+
+In terms of *right now* though, I am fairly certain I know where I am in the middle of another repetition of the Hero's Journey. The Ordinary World was during high school and college, where I spent a significant amount of time wasting the day away playing video games and really just being unmotivated all the time. I didn't really have any aspirations, and all I wanted to do was graduate.
+
+My Call to Adventure was the two C's (almost D's) I received in two of the four classes I took my first semester in college. I had been a straight A/B student for all of high school and really didn't have to try to be successful. Those low grades were a wake-up call telling me I needed to get myself together and start working towards something meaningful.
+
+> ### I received in two of the four classes I took my first semester in college
+
+Of course, I was still spoiled by my newfound freedom of being away from my parents and having the ability to do whatever I wanted, when I wanted. I went back to what I was doing before: spending way too much time on video games and other things that really didn't matter. I almost got another C in a different class the following semester.
+
+I met my best friend, Quincy, who I believe has been the Mentor character in my Hero's Journey for this phase of my life. He was very driven and always had a goal in mind, and that kind of mindset was contagious. Once I became close with him, I doubled down in my classes and really started taking advantage of the resources I had to learn anything and everything about programming.
+
+Crossing the First Threshold was, again, Startup Weekend (which I wrote about [here](./day-8)) where I really had to stretch myself to build something great and learn more than I had in any other time frame. I got a taste of what it was like to build a real thing with a real, widely used technology. It was *awesome*, but it was terrifying at the same time. I felt like I didn't know anything.
+
+Tests, Allies, And Enemies is a bit metaphorical for me. Tests was my bad internship, my good internship, and getting my college degree. Allies are my friends and coworkers that are also mentors and companions as I progress through this step. Enemies are things like impostor syndrome, where I don't believe that I can keep up with those that are around me, or that I'll never be as good as a developer as those that I look up to.
+
+> ### The Approach is where I think I am now
+
+The Approach is where I think I am now. I'm still learning tons of things about web development, but I haven't had that moment where I realize what exactly I want to do with it, or where I become known for something that I built. I'm preparing myself for that moment by getting my hands on every resource I can to learn more, and building more things like this journal, a professional portfolio, and several side projects. I'm taking on freelance opportunities. I'm becoming a better developer every day, but I still have quite a lot of "preparation" to undergo before I reach my Central Ordeal.
+
+There are tons of other aspects of my life that are their own cycles of the Hero's Journey, but this is the one that I am most aware of as I sit in front of my computer at my job as a software developer. I could write the same about meeting my fiancee to now planning a wedding, or my goal to get healthier, or something like marching band in high school. Learning about the Hero's Journey in this manner is definitely interesting. What step are you at in the Hero's Journey?
+
+---
+[Day 9](./day-9) | [Home](./)

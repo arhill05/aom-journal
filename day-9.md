@@ -17,4 +17,4 @@ Not much else happened yesterday. I got a little sunburnt and came home a little
 This may not be the most interesting journal entry ever, but it's awesome to look back on the previous day and see what stood out to you as important and reflect on how you felt throughout the day.
 
 ---
-[Day 8](./day-8) | [Home](./)
+[Day 8](./day-8) | [Home](./) | [Day 10](./day-10)
