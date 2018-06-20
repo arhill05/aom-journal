@@ -58,3 +58,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/19/2018] Day 10 - Identify where you are in the hero’s journey. You can take it in the context of your entire life, or within the context of a certain phase of life.](./day-10)
 > I feel like I've gone through the Hero's Journey several times in life already. Going to college and learning exactly...
+
+---
+
+### [[6/20/2018] Day 11 - From ancient times, men developed their manhood within a group of other men. Do you have a gang of friends who push and support you? If not, how could you make some good friends?](./day-11)
+> I don't necessarily have a "gang" of friends that push and support me, but I do have a few people that come to mind that encourage me to strive to be the best that I can be
