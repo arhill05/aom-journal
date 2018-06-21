@@ -63,3 +63,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/20/2018] Day 11 - From ancient times, men developed their manhood within a group of other men. Do you have a gang of friends who push and support you? If not, how could you make some good friends?](./day-11)
 > I don't necessarily have a "gang" of friends that push and support me, but I do have a few people that come to mind that encourage me to strive to be the best that I can be
+
+---
+
+### [[6/21/2018] Day 12 - Give stream-of-consciousness writing a try. This is where you just write out whatever comes into your head at the moment it comes into your head.](./day-12)
+> I don't necessarily have a "gang" of friends that push and support me, but I do have a few people that come to mind that encourage me to strive to be the best that I can be
