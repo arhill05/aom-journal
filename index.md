@@ -68,3 +68,9 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/21/2018] Day 12 - Give stream-of-consciousness writing a try. This is where you just write out whatever comes into your head at the moment it comes into your head.](./day-12)
 > I don't necessarily have a "gang" of friends that push and support me, but I do have a few people that come to mind that encourage me to strive to be the best that I can be
+
+---
+
+### [[6/21/2018] Day 13 - Perform a mind dump of everything you’re worried about. From the leaky dishwasher to your family member’s poor health – get it all out. (Use David Allen’s GTD trigger list to help you out if needed.)](./day-13)
+
+> There are a lot of things that I tend to worry about on a regular basis, but not very many of them really stress me out. I feel like...

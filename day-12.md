@@ -17,4 +17,4 @@ Todoist has been very helpful in keeping me productive and on track. I think I'l
 I think I'll end this prompt here. It seems rather meaningless and the content isn't very much fun to read.
 
 ---
-[Day 11](./day-11) | [Home](./)
+[Day 11](./day-11) | [Home](./) | [Day 13](./day-13)
