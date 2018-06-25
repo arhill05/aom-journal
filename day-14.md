@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+## Day 14
+### *Write a review of some form of entertainment you recently took in. Whether book or movie or TV show or Broadway play, write out what you liked and didn’t like about it. Were there any lessons to be gleaned, or was it pure entertainment (it’s okay if it was!)?*
+#### 6/25/2018
+
+## **Incredibles 2 Spoilers ahead!**
+
+I just saw The Incredibles 2 on Friday. It was a very good movie, but I did have my qualms with it.  The villain may be hard to understand for younger kids. The casting for some of the characters was blatantly different than the original movie. The tidbit at the beginning where all of the primary voice actors and actresses apologizing for the wait for the movie was somewhat unnecessary and further drives home the point that we waited 14 years for this movie.
+
+My fiancee made this point, which I agree with: the villain in Incredibles 2 is a bit hard to understand for children (who are the target audience for a movie like this). Incredibles 2's villain is Screenslaver -- a masked figure that appears on a multitude of different screens that hypnotize whoever is looking at them, bidding them to bend to Screenslaver's will. At one point during the movie, Elastigirl goes to capture the Screenslaver, and a fight ensues between her and the masked figure in an apartment building that looks to be his lair. She wins, and ends up having the person wearing the mask arrested, but the entire time he is asking "What did I do? What happened?" as if he was not under his own control. Later, we find out the Screenslaver is actually one of the other main characters. Kids may not understand this concept -- they'll likely believe the Screenslaver was the person that was arrested, and then struggle to follow the rest of the plot as the real villain is revealed later.
+
+Another issue I had with the movie was the casting for some of the characters, namely Violet. The movie picks up on literally the same day that the last one left off, with a fight against the Underminer. Violet is immediately more outgoing and sounds significantly older, even though she is supposed to be the same age. I understand that her voice actress has aged since the first movie, but I wish her personality would have been kept a bit more intact.
+
+The last issue I had with this movie was the unneeded intro sequence. Several of the primary members of the cast come on the screen and apologize for taking 14 years to get this movie to where it is now, making promises that this is going to be great and worth the wait, and explaining the difficulties of making an animated film. Now, I am ignorant of the process of creating animated films, but if it really takes that long, then why did Cars get 3 movies before Incredibles got a sequel when there was such a blatantly obvious cliffhanger at the end of the first?The only thing this little bit did for me was reinforce the fact that I've waited 14 years and have no idea whether this movie is going to live up to the hype or not.
+
+With all of that being said, Incredibles 2 was a great movie. The nostalgia factor and the chills that ran down my spine when the Incredibles theme song started playing really helped me get into this movie. I loved the plot, the work put into the movie to relate it to primary issues in today's world, and the quality of the animation. There is an obvious difference between the quality of the animations between the first and second movie. The plot was complex enough to keep an adult like myself engaged and entertained, but may be a struggle for younger audiences to follow. If I had to give it a rating out of 10, I'd rate Incredibles 2 a 7.
+
+---
+[Day 13](./day-13) | [Home](./)

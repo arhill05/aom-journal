@@ -27,4 +27,4 @@ I worry about the portfolio that I have that isn't complete yet. It needs to be 
 There are tons of things that I worry about in life, but none of them are significant enough to warrant me getting sick over them. Like I said, I feel like I have a good understanding of what I worry about and how to handle them.
 
 ---
-[Day 12](./day-12) | [Home](./)
+[Day 12](./day-12) | [Home](./) | [Day 14](./day-14)

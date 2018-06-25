@@ -71,6 +71,10 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ---
 
-### [[6/21/2018] Day 13 - Perform a mind dump of everything you’re worried about. From the leaky dishwasher to your family member’s poor health – get it all out. (Use David Allen’s GTD trigger list to help you out if needed.)](./day-13)
+### [[6/22/2018] Day 13 - Perform a mind dump of everything you’re worried about. From the leaky dishwasher to your family member’s poor health – get it all out. (Use David Allen’s GTD trigger list to help you out if needed.)](./day-13)
 
 > There are a lot of things that I tend to worry about on a regular basis, but not very many of them really stress me out. I feel like...
+
+### [[6/25/2018] Day 14 - Write a review of some form of entertainment you recently took in. Whether book or movie or TV show or Broadway play, write out what you liked and didn’t like about it. Were there any lessons to be gleaned, or was it pure entertainment (it’s okay if it was!)?](./day-14)
+
+> Incredibles 2 spoilers ahead! I just saw The Incredibles 2 on Friday. It was a very good movie, but I did have my qualms with it.
