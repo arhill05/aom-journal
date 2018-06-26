@@ -19,4 +19,4 @@ The last issue I had with this movie was the unneeded intro sequence. Several of
 With all of that being said, Incredibles 2 was a great movie. The nostalgia factor and the chills that ran down my spine when the Incredibles theme song started playing really helped me get into this movie. I loved the plot, the work put into the movie to relate it to primary issues in today's world, and the quality of the animation. There is an obvious difference between the quality of the animations between the first and second movie. The plot was complex enough to keep an adult like myself engaged and entertained, but may be a struggle for younger audiences to follow. If I had to give it a rating out of 10, I'd rate Incredibles 2 a 7.
 
 ---
-[Day 13](./day-13) | [Home](./)
+[Day 13](./day-13) | [Home](./) | [Day 15](./day-15)

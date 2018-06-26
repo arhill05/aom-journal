@@ -77,4 +77,7 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/25/2018] Day 14 - Write a review of some form of entertainment you recently took in. Whether book or movie or TV show or Broadway play, write out what you liked and didn’t like about it. Were there any lessons to be gleaned, or was it pure entertainment (it’s okay if it was!)?](./day-14)
 
-> Incredibles 2 spoilers ahead! I just saw The Incredibles 2 on Friday. It was a very good movie, but I did have my qualms with it.
+> Incredibles 2 spoilers ahead! I just saw The Incredibles 2 on Friday. It was a very good movie, but I did have my qualms with it...
+
+### [[6/26/2018] Day 15 - Come up with your own Cabinet of Invisible Counselors. There are innumerable great men from history who we can learn from today. Write out who you would have on your list and what you admire about them.](./day-15)
+> The people that I would have on my own Cabinet of Invisible Counselors would be Wes Bos, Scott Tolinski, Grace Hopper, and John Papa...

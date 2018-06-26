@@ -23,4 +23,4 @@ A never-ending source of advice and someone to talk about my feelings on certain
 There are many people that have had a significant influence on me in my life in an encouraging and supportive way, but these are the people that come to mind immediately. I could continue to grow my group of good friends that support me in ways like this by attending tech meetups, or making an effort to connect with some other coworkers outside of work. However, I question whether I even want to. As I said earlier, I would much rather have one great friend than 100 not-so-great friends. One person that is going to encourage me to be the best person that I can be and support me in my path to success is significantly more valuable to me than 100 people that may occasionally like my latest Facebook post. The question of whether or not I should have more friends is one that I'll likely explore for the rest of my life, but right now I could not ask for a better support system.
 
 ---
-[Day 10](./day-10) | [Home](./)
+[Day 10](./day-10) | [Home](./) | [Day 12](./day-12)
