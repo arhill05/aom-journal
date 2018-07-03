@@ -81,3 +81,6 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[6/26/2018] Day 15 - Come up with your own Cabinet of Invisible Counselors. There are innumerable great men from history who we can learn from today. Write out who you would have on your list and what you admire about them.](./day-15)
 > The people that I would have on my own Cabinet of Invisible Counselors would be Wes Bos, Scott Tolinski, Grace Hopper, and John Papa...
+
+### [[7/3/2018] Day 16 - Imagine that someone has decided to write a book about your life, up to this point. What would the cover blurb say? Are you happy with it? Now imagine what you’d like that blurb to say at the end of your life. What changes need to be made for that to happen?](./day-16)
+> This question just seems like a more elaborate form of Day 6's prompt. A blurb on the front cover of a book normally isn't any longer than a sentence or two, so it's just a bit more detail...

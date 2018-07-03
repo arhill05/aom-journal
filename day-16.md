@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+## Day 16
+### *Imagine that someone has decided to write a book about your life, up to this point. What would the cover blurb say? Are you happy with it? Now imagine what you’d like that blurb to say at the end of your life. What changes need to be made for that to happen?*
+#### 7/3/2018
+
+This question just seems like a more elaborate form of [Day 6's](./day-6) prompt. A blurb on the front cover of a book normally isn't any longer than a sentence or two, so it's just a bit more detail than that prompt's six words. Up until this point in my life, the cover probably says something along the lines of "The story of a man who finally decides it is time to start putting more effort into getting good at something. Follow along as he balances family, friends, jobs, and hobbies." 
+
+Just recently, I took on two of the biggest freelance opportunities I've ever been presented with. I've started studying more about development. I've actively starting shaping what my online presence may look like as I establish a name for myself. I bought the domain name [clickclackconsulting.com](https://clickclackconsulting.com) and I'm working on a logo. I was afraid to take on these opportunities, but I pushed myself to do it because it is the next inevitable step that I needed to take to get closer to my idea of a success.
+
+Life is a never ending balancing act of making sure your priorities are in order. Family is first, always. I've been lacking in the wedding planning department, and I'm making an effort to do more where I've been slacking off. I'm typing this in the car as I'm on my way back from visiting family in my hometown. My full time job is challenging on it's own. My hobbies have been somewhat ignored recently as I focus on other things like what I've listed above. I know that sometimes I get my priorities out of order, and I need to rebalance myself.
+
+I am happy about what that blurb says right now. It doesn't say "a man who is too afraid to take the leap into new opportunities," or "someone who fails to realize what his priorities should be." It says "it is time." I know that I need to strengthen my balance of everything I'm working on in life. I know that I have to take a step forward to actually go somewhere Those are things that I AM doing. I signed a contract for an awesome and challenging freelance project. I am establishing a name for myself. I am makings todo lists of things that need to be done for wedding planning. I have a list of things to do around my house that will increase the quality of life for both myself and my fiance. I am still young, so I have only just now started getting the opportunities to take the plunge into something like this. What would make me unhappy is if the blurb said I wasn't doing anything about the opportunities that are being presented to me.
+
+As for what the blurb may say at the end of my life, it may say something like "How to be a successful family man -- a story of how Drew Hill built what he did and raised a happy family." I don't know what I'm going to build yet, but I do know that I *cannot* lose sight of the important things along the way. If my family isn't happy, then I am not successful. If I have hundreds of millions of dollars but I miss my significant other's event that was really important to her, I am not successful. 
+
+I think I am on the right track to getting there. I'm taking steps to make myself successful, and I'm trying to be as involved as I can be with my fiancee. I'm making an effort to be more interested in the things I wouldn't normally be interested about my family's life. It's still early yet, but I think I can have my story end pretty close to how I said it will be.
+
+---
+
+*I forgot to mention that I am on vacation in my last entry. I will not be writing many entries while I'm on vacation since I'm not a computer for a majority of the time that I am away. I'm using this time to visit with people I don't see often and spend time away from technology. I may write a couple more, but they will return regularly next Monday, July 9.*
+
+---
+[Day 15](./day-15) | [Home](./)
+

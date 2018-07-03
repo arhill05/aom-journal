@@ -23,5 +23,5 @@ Being able to sit down with any number of influential figures would be amazing. 
 On an unrelated note, this is halfway through my journaling experience. I've enjoyed most of the prompts so far, but some have been not so fun. I think I'll try to continue this habit once I run out of prompts. I hope you have enjoyed reading them as much as I have enjoyed writing them.
 
 ---
-[Day 14](./day-14) | [Home](./)
+[Day 14](./day-14) | [Home](./) | [Day 16](./day-16)
 
