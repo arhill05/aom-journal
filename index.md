@@ -75,12 +75,23 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 > There are a lot of things that I tend to worry about on a regular basis, but not very many of them really stress me out. I feel like...
 
+---
+
 ### [[6/25/2018] Day 14 - Write a review of some form of entertainment you recently took in. Whether book or movie or TV show or Broadway play, write out what you liked and didn’t like about it. Were there any lessons to be gleaned, or was it pure entertainment (it’s okay if it was!)?](./day-14)
 
 > Incredibles 2 spoilers ahead! I just saw The Incredibles 2 on Friday. It was a very good movie, but I did have my qualms with it...
 
+---
+
 ### [[6/26/2018] Day 15 - Come up with your own Cabinet of Invisible Counselors. There are innumerable great men from history who we can learn from today. Write out who you would have on your list and what you admire about them.](./day-15)
 > The people that I would have on my own Cabinet of Invisible Counselors would be Wes Bos, Scott Tolinski, Grace Hopper, and John Papa...
 
+---
+
 ### [[7/3/2018] Day 16 - Imagine that someone has decided to write a book about your life, up to this point. What would the cover blurb say? Are you happy with it? Now imagine what you’d like that blurb to say at the end of your life. What changes need to be made for that to happen?](./day-16)
 > This question just seems like a more elaborate form of Day 6's prompt. A blurb on the front cover of a book normally isn't any longer than a sentence or two, so it's just a bit more detail...
+
+---
+
+### [[7/9/2018] Day 17 - Hop on the internet and search for the biggest news stories in the year you were born. Think about how these news stories, or even statistics, may have shaped your childhood or who you are today.](./day-17)
+> There were a lot of big things that happened in 1995, apparently. The biggest thing is that I was born (ha)! Jokes aside, here's a list of the biggest things that happened during...
