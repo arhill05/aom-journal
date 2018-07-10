@@ -10,7 +10,7 @@ layout: default
 
 I'll talk about two projects since both of them are things that I am actively working on.
 
-#### The fence post
+### The fence post
 The first project is fixing the leaning fence post in my back yard. When I moved into this house in late May of last year, this particular post was already leaning. My neighbors that live behind me have kids who play soccer, and they love to kick their soccer balls up against the fence. This resulted in the post leaning even further, and even taking a couple of chunks out of the privacy fence slats that I screwed back on this past weekend. This is obviously bad for the fence and could result in further damage if I don't fix it.
 
 I've already tried straightening it once by digging out about 8 or 9 inches on three sides of the post, then filling them back with the dirt and tamping it as best as I can, but it didn't help much at all. For my next attempt, I'll need several things:
@@ -23,7 +23,7 @@ I've already tried straightening it once by digging out about 8 or 9 inches on t
 
 First, I'll need to dig out the ground around the post, and get rid of any broken concrete that is contributing to the problem. Then, I'll need to make sure the post is perpendicular with the ground. If it's leaning even slightly, it'll just go back to it's previous state eventually. Next, I'll need to pour some Quikrete in the hole around the post. This will replace the crumbling foundation. Finally, I'll need to replace the dirt that I dug out and probably plant a little grass seed to make it look nicer. Once all of that is done, I can look into replacing the two broken slats. That shouldn't be too hard -- just remove the screws holding the current slats in place, remove the slats, and put new ones in their place.
 
-#### The broken keyboard
+### The broken keyboard
 
 The other project is something recent. I bought a keyboard from someone on the [mechmarket subreddit](https://www.reddit.com/r/mechmarket), and during shipping, the switch stem snapped off in the ESC key. Here's some pictures:
 
