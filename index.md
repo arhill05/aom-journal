@@ -95,3 +95,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[7/9/2018] Day 17 - Hop on the internet and search for the biggest news stories in the year you were born. Think about how these news stories, or even statistics, may have shaped your childhood or who you are today.](./day-17)
 > There were a lot of big things that happened in 1995, apparently. The biggest thing is that I was born (ha)! Jokes aside, here's a list of the biggest things that happened during...
+
+---
+
+### [[7/10/2018] Day 18 - Identify one project you’d like to complete with your hands, whether chore or craft. Detail the steps, the resources, and the help you’ll need to complete the project. Then, set about doing it!](./day-18)
+> I'll talk about two projects since both of them are things that I am actively working on...

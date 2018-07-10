@@ -6,10 +6,7 @@ layout: default
 ### *Hop on the internet and search for the biggest news stories in the year you were born. Think about how these news stories, or even statistics, may have shaped your childhood or who you are today.*
 #### 7/9/2018
 
-
-
 ---
-[Day 16](./day-16) | [Home](./)
 
 There were a lot of big things that happened in 1995, apparently. The biggest thing is that I was born (ha)! Jokes aside, here's a list of the biggest things that happened during that year:
 
@@ -35,3 +32,6 @@ Microsoft releasing Windows 95 was a turning point in consumer computing. Apple 
 *Toy Story* was a BIG deal. Not only is it a great movie, but it showed just what could be done with full-length animated films. Now there are a huge number of animated films that top box office charts quite often. Some of the best movies I've ever seen are animated films. Big names like *The Incredibles*, *Finding Nemo*, *Beauty and the Beast* (and all of the other Disney princess movies), and more are fantastic movies. If Toy Story had never been as successful as it was, the animated film industry may have not been as big as it is now.
 
 There are quite a lot of influential events that happened during my birth year, especially for computing and technology. I'd like to think that they had a pretty big hand in me ending up where I am now.
+
+---
+[Day 16](./day-16) | [Home](./) | [Day 18](./day-18)
