@@ -54,4 +54,4 @@ As for repairing the actual switch, that's a bit more involved. First, I'll need
 I like using my hands to work on things. It's a welcome break from my primary work of development which has me doing nothing but using a keyboard and mouse all day. I love what I do, but sometimes it's nice to break it up from time to time.
 
 ---
-[Day 17](./day-17) | [Home](./)
+[Day 17](./day-17) | [Home](./) | [Day 19](./day-19)

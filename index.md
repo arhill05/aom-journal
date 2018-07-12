@@ -100,3 +100,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[7/10/2018] Day 18 - Identify one project you’d like to complete with your hands, whether chore or craft. Detail the steps, the resources, and the help you’ll need to complete the project. Then, set about doing it!](./day-18)
 > I'll talk about two projects since both of them are things that I am actively working on...
+
+---
+
+### [[7/12/2018] Day 19 - Reflect on your romantic relationship, and identify one area you’d like to improve. If you don’t have a romantic partner in your life, identify past failures you’d like to improve on. If you’ve never been in a relationship, describe your ideal one.!](./day-19)
+> My relationship I have now is the healthiest I have ever been in. In high school, I had several crazy relationships...
