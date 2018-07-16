@@ -108,5 +108,5 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ---
 
-### [[7/12/2018] Day 20 - Think about the period of your life for which you have the greatest nostalgia. Once you identify that time period, think of why you’re so nostalgic about it. What elements could you revive in your life now?](./day-19)
+### [[7/16/2018] Day 20 - Think about the period of your life for which you have the greatest nostalgia. Once you identify that time period, think of why you’re so nostalgic about it. What elements could you revive in your life now?](./day-20)
 > I don't have many nostalgic periods of time in my life. If I had to pick one, it would probably be my time in marching band in high school....
