@@ -103,5 +103,10 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ---
 
-### [[7/12/2018] Day 19 - Reflect on your romantic relationship, and identify one area you’d like to improve. If you don’t have a romantic partner in your life, identify past failures you’d like to improve on. If you’ve never been in a relationship, describe your ideal one.!](./day-19)
+### [[7/12/2018] Day 19 - Reflect on your romantic relationship, and identify one area you’d like to improve. If you don’t have a romantic partner in your life, identify past failures you’d like to improve on. If you’ve never been in a relationship, describe your ideal one.](./day-19)
 > My relationship I have now is the healthiest I have ever been in. In high school, I had several crazy relationships...
+
+---
+
+### [[7/12/2018] Day 20 - Think about the period of your life for which you have the greatest nostalgia. Once you identify that time period, think of why you’re so nostalgic about it. What elements could you revive in your life now?](./day-19)
+> I don't have many nostalgic periods of time in my life. If I had to pick one, it would probably be my time in marching band in high school....

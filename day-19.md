@@ -25,4 +25,4 @@ Unfortunately, I don't always return the favor. It's not that I don't have inter
 I have trouble doing this with a lot of people. I'll check out during a conversation, but sometimes it is okay. In this case, it most definitely isn't. I have realized I do this recently, and I try to make it a point to ask about her day every day. I can do more, though. I can make an effort to remember the things she tells me about the kids she gets to work with, or ask about the things that she talked about last week that she was super excited about accomplishing. It shouldn't be a conversation that gets blown away in the wind -- it should be something important that we can both share as an integral part of our relationship. She consistently does this for me, and now it is my turn to step up to the plate and return the favor.
 
 ---
-[Day 18](./day-18) | [Home](./)
+[Day 18](./day-18) | [Home](./) | [Day 20](./day-20);
