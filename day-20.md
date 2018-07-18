@@ -27,4 +27,4 @@ The most nostalgic aspect of marching band was the thrill of the performance and
 Marching band was one of the better times that I've had in life so far, but it is part of my past. I learned several great lessons from it and I'm glad that I had the opportunity to be a part of it, but I'm happy with the way my life is moving now and I've made the decision to dedicate myself to other facets of life.
 
 ---
-[Day 19](./day-19) | [Home](./)
+[Day 19](./day-19) | [Home](./) | [Day 21](./day-21)

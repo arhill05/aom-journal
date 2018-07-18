@@ -109,4 +109,9 @@ Here are my random ramblings that try to follow along with the points illustrate
 ---
 
 ### [[7/16/2018] Day 20 - Think about the period of your life for which you have the greatest nostalgia. Once you identify that time period, think of why you’re so nostalgic about it. What elements could you revive in your life now?](./day-20)
-> I don't have many nostalgic periods of time in my life. If I had to pick one, it would probably be my time in marching band in high school....
+> I don't have many nostalgic periods of time in my life. If I had to pick one, it would probably be my time in marching band in high school...
+
+---
+
+### [[7/18/2018] Day 21 - Focusing on big goals can overwhelm us into inaction. Think on the Japanese philosophy of Kaizen – simply getting 1% better each day. What’s something really small you can start doing every day that will create a compounding effect in your life?](./day-21)
+> Before I dive into what I can do to start implementing this idea, I'd like to mention something about an excerpt from the article linked in the prompt above...
