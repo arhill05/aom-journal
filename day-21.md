@@ -35,4 +35,4 @@ I spend too much money on things I don't need. This could even go hand in hand w
 I really dig the idea of the Kaizen technique of improvement. Small wins generating big successes is something I've believed in for quite a while. Small improvements is the key to making anything work. Biting off more than you can chew is never a good idea. I hope the result of this journal entry isn't similar to what I mentioned earlier about just forgetting about it by the end of the day. I need to push myself to implement these small, 1% improvements that I know I can do.
 
 ---
-[Day 20](./day-20) | [Home](./)
+[Day 20](./day-20) | [Home](./) | [Day 22](./day-22)
