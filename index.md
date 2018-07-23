@@ -120,3 +120,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[7/20/2018] Day 22 - Imagine you’ve been provided with a livable income for the rest of your life. You have no need to work, but aren’t rolling in money either. How would you spend your time? Your answer will say a lot about you and what your passion may be.](./day-22)
 > I think what I do for a career now is pretty close to what I'd spend my...
+
+---
+
+### [[7/23/2018] Day 23 - Make a list of things that distract you. It could be your smartphone, or even something that’s actually beneficial, but eats up more time than you’d like. What could you do to better manage these distractions in your life.](./day-23)
+> I've answered this quite a lot already, so unfortunately this will probably be another short entry.

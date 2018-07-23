@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+## Day 23
+### *Make a list of things that distract you. It could be your smartphone, or even something that’s actually beneficial, but eats up more time than you’d like. What could you do to better manage these distractions in your life?*
+#### 7/23/2018
+
+---
+
+I've answered this quite a lot already, so unfortunately this will probably be another short entry. Here's the list of things that comes to mind when I think of distractions in my life:
+
+ - My phone
+ - Reddit
+ - Facebook
+ - My phone
+ - Twitter
+ - Clash Royale
+ - Side projects
+ - Oh yeah, my phone
+
+I don't have many *big* distractions. I have a lot of little distractions that come and go as they please. I don't really think about them in the moment, but I will realize that it is a distraction and make an effort to get myself back to whatever I was doing in the first place. This is probably attributed to my recent diagnosis of ADHD, but I've taken steps to actively manage it.
+
+To manage the distraction of social media (Reddit, Facebook, Twitter, etc) I could go as far as to delete my social media accounts, but I just can't bring myself to remove myself from them. I'll likely never remove myself from Reddit simply because I use it for a lot of things other than a meaningless distraction (like moderating the r/webdev subreddit), but the others may be something I could do. The only thing I ever use them for is mindless scrolling on my phone while I lay in bed or while I have nothing else better to do. Twitter may also be an exception because most of the people I follow on Twitter are developers or in the tech industry, so I get some valuable information about my career from it.
+
+The manage the distraction of my phone is a different story. I've written about it several times before already, and some of it has been successful, but I can still do better. Maybe I can consider leaving my phone at home if I go out for dinner, or leave it on my nightstand if I'm going to do something at home that would benefit from my full attention. I've tried to find an application that measures my usage of different apps and how much I actually use my phone, but I haven't found one that works well yet.
+
+This journaling challenge has been a way for me to help myself manage my distractions. Sitting down and focusing on writing a journal entry first thing in the morning helps me get into a productive mindset and also helps me tell my brain that it's time to get focused. If I have something that wants to become a distraction, I do my best to push it to the back of my mind and finish the entry.
+
+I know that I have a few bigger concerns when it comes to distractions in my life, but I've been working towards managing them better in the past few weeks.
+
+---
+[Day 22](./day-22) | [Home](./)

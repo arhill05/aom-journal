@@ -17,4 +17,4 @@ One thing that I would for sure spend time doing is pursuing my private pilot's 
 I know this one is short and sweet, but I'm already pretty close to how I would spend my time if I had a livable income without needing to work. There's not much to fantasize about when I'm already pretty happy doing what I do now.
 
 ---
-[Day 21](./day-21) | [Home](./)
+[Day 21](./day-21) | [Home](./) | [Day 23](./day-23)
