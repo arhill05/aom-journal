@@ -118,5 +118,5 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ---
 
-### [[7/20/2018] Day 21 - Focusing on big goals can overwhelm us into inaction. Think on the Japanese philosophy of Kaizen – simply getting 1% better each day. What’s something really small you can start doing every day that will create a compounding effect in your life?](./day-22)
-> I think what I do for a career now is pretty close to what I'd spend my
+### [[7/20/2018] Day 22 - Imagine you’ve been provided with a livable income for the rest of your life. You have no need to work, but aren’t rolling in money either. How would you spend your time? Your answer will say a lot about you and what your passion may be.](./day-22)
+> I think what I do for a career now is pretty close to what I'd spend my...
