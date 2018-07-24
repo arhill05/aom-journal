@@ -30,4 +30,4 @@ This journaling challenge has been a way for me to help myself manage my distrac
 I know that I have a few bigger concerns when it comes to distractions in my life, but I've been working towards managing them better in the past few weeks.
 
 ---
-[Day 22](./day-22) | [Home](./)
+[Day 22](./day-22) | [Home](./) | [Day 24](./day-24)

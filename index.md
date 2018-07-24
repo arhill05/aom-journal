@@ -125,3 +125,8 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ### [[7/23/2018] Day 23 - Make a list of things that distract you. It could be your smartphone, or even something that’s actually beneficial, but eats up more time than you’d like. What could you do to better manage these distractions in your life.](./day-23)
 > I've answered this quite a lot already, so unfortunately this will probably be another short entry.
+
+---
+
+### [[7/24/2018] Day 24 - Write down your long term goals. What do you want to have accomplished in 3 months? 6 months? A year?.](./day-24)
+> The original prompt for today was...
