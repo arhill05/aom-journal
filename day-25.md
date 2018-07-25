@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+## Day 25
+### *Pick 1-2 quotes from our [80 quotes on manhood](https://www.artofmanliness.com/articles/quotes-about-manliness/) and reflect on why they stand out to you.*
+#### 7/25/2018
+
+---
+
+I picked three quotes from here, but two of them are very related to each other I feel. Here's the first two:
+
+>“It is not the situation which makes the man, but the man who makes the situation.” –Frederick William Robertson
+
+>“To be a man requires that you accept everything life has to give you, beginning with your name.” –Burl Ives
+
+These quotes relate to something that I've been practicing for several months now. When I was fresh out of college (granted, that wasn't that long ago...), I complained _a lot_. I always had something to complain about at work. I didn't like how this was done, or I didn't want to work on this project, or I hated how this person did something. I was a pretty negative person. An endless stream of complaints is a pointless waste of time and energy.
+
+This leads me to this thing I've been practicing: **don't waste your own energy on something you cannot control**. If something is out of your hands, regardless of your own feelings or opinions on it, then it is not worth your time, effort, and energy to complain and worry endlessly about it. If someone cuts you off in traffic, there was _absolutely nothing_ you could've done differently to make that person not cut you off. Instead of getting upset and ruining your commute with a bad mood and road rage, just shrug it off and remember that it is out of your control and no matter how much energy you put into worrying about it or being angry, it is not going to change.
+
+With that being said, if you have the opportunity to influence something that you're passionate about, you absolutely should fight for it. If you have a solution to an obvious problem (even if it wasn't caused by you), then you should do everything in your power to fight for it. Complain about it, moan about it, but then come to the table with a solution. Pointless complaints are different than constructive conversations with solutions in mind.
+
+The second quote does have a bit of different context than the first. Often times I'll find myself thinking "if only I was some celebrity's kid, then I would already be rich and successful by default. Those people have it so easy." The second quote is a different way of phrasing what I tell myself to shut myself up about those thoughts. Life has given me an amazing opportunity to grow myself into someone successful instead of having everything given to me on a silver platter. I accept what situations life has given to me and don't worry about how it would be different if I was born into royalty or been named "North West."
+
+---
+
+The third quote is:
+
+>“There are two questions a man must ask himself: The first is ‘Where am I going?’ and the second is ‘Who will go with me?’ If you ever get these questions in the wrong order you are in trouble.” –Sam Keen
+
+This to me essentially means that you can't worry about who is going to support your goals before you worry about how you yourself are going to accomplish them. Don't bother recruiting help if you don't have a plan for yourself. That's telling the people you ask to help you along the way that you expect them to build your goals for you, and that's not something anyone wants to do or that you should feel is a success.
+
+Building your own success needs to happen on your own. If you aren't passionate enough about something to try to accomplish it on your own, you need to reconsider what your primary goals are because it is obvious they aren't the right ones. Build your own path first, and then support will come along naturally.
+
+---
+[Day 24](./day-24) | [Home](./)

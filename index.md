@@ -128,5 +128,10 @@ Here are my random ramblings that try to follow along with the points illustrate
 
 ---
 
-### [[7/24/2018] Day 24 - Write down your long term goals. What do you want to have accomplished in 3 months? 6 months? A year?.](./day-24)
+### [[7/24/2018] Day 24 - Write down your long term goals. What do you want to have accomplished in 3 months? 6 months? A year?](./day-24)
 > The original prompt for today was...
+
+---
+
+### [[7/25/2018] Day 25 - Pick 1-2 quotes from our [80 quotes on manhood](https://www.artofmanliness.com/articles/quotes-about-manliness/) and reflect on why they stand out to you.](./day-25)
+> I picked three quotes from here, but two of them are very related to each other I feel. Here's the...

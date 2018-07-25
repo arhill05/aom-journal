@@ -35,4 +35,4 @@ First and foremost, I want to get married! We've set a date for the 30th of June
 I want to get at least as big of a raise next year as I did this year. If I keep up with my goals and continue dedicating myself to learning and doing the best I can at work, I think I have a pretty good shot.
 
 ---
-[Day 23](./day-23) | [Home](./)
+[Day 23](./day-23) | [Home](./) | [Day 25](./day-25)
