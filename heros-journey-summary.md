@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 ---
 
-## Hero's Journey Summary
 The Hero's Journey begins with the main character, or Hero, in one place, and ends with him in another — both physically and emotionally. The Hero is the same regardless of what story you're telling, which is important because it could be a multi-billionaire who owns dozens of successful companies, or a cashier at a fast food restaurant. In the Hero's Journey, there is also a Mentor -- like Gandalf in Lord of the Rings, or Dumbledore in Harry Potter. The Journey can be replicated in everyone's life to some degree. Here's an illustration:
 
 ![Hero's Journey](./assets/img/vogsmall.jpg)
@@ -37,6 +36,3 @@ The Call to Adventure - The Hero realizes that there is a larger world that he c
 ---
 
 Knowing each of the steps of the Hero's Journey allows you to understand changes happening in your life and the path to your end goal(s) in life. Anything can fit into at least one of the stages above.
-
----
-[Day 10](./day-10) | [Home](./)
