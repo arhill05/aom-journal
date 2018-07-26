@@ -12,7 +12,7 @@ Here are my random ramblings that try to follow along with the points illustrate
   {% for post in site.posts %}
     <li class="post">
     <small>{{ post.date  | date: "%-d %B %Y" }}</small>
-      <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       {{ post.subtitle }}
     </li>
   {% endfor %}
