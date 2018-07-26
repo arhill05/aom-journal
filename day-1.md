@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title: Day 1
 ---
 
 ## Day 1
