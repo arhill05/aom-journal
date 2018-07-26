@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Art of Manliness Journal
 description: Follow along as I take on the Art of Manliness 31-day journaling challenge. I'll add a new entry to the journal every day.
-logo: ./images/profile.jpg
+logo: ./assets/img/profile.jpg
 google_analytics: UA-122942341-1

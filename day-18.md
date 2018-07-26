@@ -27,8 +27,8 @@ First, I'll need to dig out the ground around the post, and get rid of any broke
 
 The other project is something recent. I bought a keyboard from someone on the [mechmarket subreddit](https://www.reddit.com/r/mechmarket), and during shipping, the switch stem snapped off in the ESC key. Here's some pictures:
 
-![Broken Keycap](./images/broken-keycap.jpg)
-![Broken Switch](./images/broken-stem.jpg)
+![Broken Keycap](./assets/img/broken-keycap.jpg)
+![Broken Switch](./assets/img/broken-stem.jpg)
 
 The switch stem is stuck in the keycap, and with the stem missing from the switch, the switch becomes unusable since you cannot fit another keycap onto it.
 

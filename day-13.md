@@ -18,7 +18,7 @@ My fiancee and I are trying to plan a wedding, and that's obviously worrisome in
 
 Even as the prompt says, I do worry about the leaky faucet in my bathroom. I actually have a to-do list of home improvement projects that I want to complete. These are things that I tell myself I'm going to do every weekend, then end up not doing them.
 
-![Home Improvement List](./images/home-improvement.png)
+![Home Improvement List](./assets/img/home-improvement.png)
 
 I worry about the gaming community I'm a part of. It has had some struggles recently, and the community has been relatively inactive. I worry that I myself am not doing enough to help keep it from stagnating.
 

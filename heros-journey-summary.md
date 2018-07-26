@@ -5,7 +5,7 @@ layout: default
 ## Hero's Journey Summary
 The Hero's Journey begins with the main character, or Hero, in one place, and ends with him in another — both physically and emotionally. The Hero is the same regardless of what story you're telling, which is important because it could be a multi-billionaire who owns dozens of successful companies, or a cashier at a fast food restaurant. In the Hero's Journey, there is also a Mentor -- like Gandalf in Lord of the Rings, or Dumbledore in Harry Potter. The Journey can be replicated in everyone's life to some degree. Here's an illustration:
 
-![Hero's Journey](./images/vogsmall.jpg)
+![Hero's Journey](./assets/img/vogsmall.jpg)
 
 And a description and example of each (credits to the [Art of Manliness Hero's Journey Summary](https://www.artofmanliness.com/articles/heros-journey/)):
 
