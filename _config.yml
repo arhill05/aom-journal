@@ -6,3 +6,4 @@ google_analytics: UA-122942341-1
 baseurl: /aom-journal
 
 repository: arhill05/aom-journal
+future: false
