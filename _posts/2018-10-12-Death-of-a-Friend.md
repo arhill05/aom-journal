@@ -19,4 +19,4 @@ We had the privilege and the honor of playing a few notes at his burial. We star
 
 Until the day I join you to play again, rest easy and play some clean beats for me. Rest in peace, Hunter.
 
-![Hunter Henderson](../assets/img/hunter.jpg)
+![Hunter Henderson]({{site.url}}/aom-journal/assets/img/hunter.jpg)
