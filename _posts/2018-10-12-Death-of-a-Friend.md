@@ -15,7 +15,7 @@ That familiar feeling came back even as we all sat at lunch after his burial cer
 
 I eventually came to terms with this the more I thought about it. The people Hunter was close to in these past few years don't have the same bond or the same connection that he, I, and the rest of the drumline had. There's something about being in a drumline, being a part of something that makes you literally become one with each other, and spending that much time in that intense of an experience that no one else will really understand. My grief was not only for the loss of a friend, but it was for the definitive ending of an era that his death brought alongside it. I will never have the opportunity to do something like that again. Even if I was to go find a drumline to play with today, there is nothing comparable to what I had with the drumline that Hunter was a part of.
 
-We had the privilege and the honor of playing a few notes at his burial. We started out with the simplest warmup we ever played, and it was one of the hardest things I've ever performed. I have never played a harder rep of 8-on-a-hand in my life. It was a exhilarating and emotional experience to line up the drums to play with him one last time.
+We had the privilege and the honor of playing a few notes at his burial. We started out with the simplest warmup we ever played, and it was one of the hardest things I've ever performed. I have never played a harder rep of 8-on-a-hand in my life. It was an exhilarating and emotional experience to line up the drums to play with him one last time.
 
 Until the day I join you to play again, rest easy and play some clean beats for me. Rest in peace, Hunter.
 
