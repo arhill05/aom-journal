@@ -1,0 +1,16 @@
+---
+layout: post
+subtitle: Rewiring my brain to show more gratitude
+---
+
+I really don't think that I am an ungrateful person, but a pattern I've discovered over the past several months since I've started this journaling thing is that I tend to focus more on the negative than the positive. I would constantly complain about things that I have no control over, rant about pointless things that I'd forget about in a day, and never talk about the things that are going well. This, by default, leads to me being ungrateful. I never stop to appreciate the things that I have, but rather complain about the things that I don't. I don't reflect on the work that I have accomplished, but instead I complain about the work I have left to do.
+
+I've written about it before, but I've been making a dedicated effort to stop complaining about the things I don't have control over. My energy is much better spent on the things that I do have control over, even if it is at the lowest level of something like the code that I write for a small piece of functionality. It's a waste of breath, time, and energy to complain about things that either I can't do anything about, or without providing a solution.
+
+Another thing that I've been doing to be more grateful is keeping a hand-written log of things every day. I have a journal that I write in every day. The format I follow is what I did the day before, what I plan on doing today, three things I am grateful for, and how I am feeling for the day. The previous day's accomplishments and the plan for today help keep me focused on getting things done and feeling accomplished instead of wondering what I really did all day. The piece about how I am feeling just helps me reflect on the patterns that emerge in my life -- what makes me feel a certain way?
+
+The part where I write down three things that I am grateful for is the part that has been most helpful in this regard, though. There are several studies that show people who actively think about gratefulness and what they have to be grateful are more positive overall and are overall a better person. It forces me to sit down and think, even just for a minute or two, about what I have in life to be grateful for. It helps me put myself in my place about how far I am in life, the things that I have, and the things that I take for granted.
+
+These things don't have to be huge things. The three things I wrote down today are a "cooperative security team," "Clash Royale," and "bananas." I've been working with the security team at work on a trivial issue that prevents me from having a nice-to-have feature on my computer, and they've been more than willing to help investigate and fix the problem amidst their super busy time trying to plan for our entire office move in the first quarter of next year. I am grateful for Clash Royale because it's a fun time waster that I can play on my phone when I get bored or need a quick break. I'm grateful for bananas because they're just so good. I eat one for breakfast almost every morning.
+
+I'm not too terribly bought into the whole idea of "rewiring your brain," but I'd be lying if I said I didn't feel more positive and have a different mindset on things in my life since I've started this. Maybe I am actually changing the chemistry of my brain.
