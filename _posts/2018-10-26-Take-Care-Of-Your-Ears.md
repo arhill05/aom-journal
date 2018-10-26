@@ -1,0 +1,18 @@
+---
+layout: post
+subtitle: They're the only ones you have
+---
+
+This week, I had to take a trip to the emergency room. I didn't do something crazy like break a bone or slice my hand open in the kitchen. Nope -- I stuck a Q-Tip in my ear. Julie hates it when I don't clean my ears, but now I have a legitimate excuse for never sticking a Q-Tip in my ear again.
+
+When I attemped to clean my ears out, I jammed some earwax into my ear canal and sealed off my ear to where I lost the hearing in my right ear. It was absolutely terrifying. Over the course of the evening, we tried pouring hydrogen peroxide in my ear and letting it sit and soften the wax, and also bought an earwax removal kit with some special drops and a little bulb plunger thing (like the things you use to suck boogers out of a baby's nose) in an attempt to get it out. This ended up just making it worse because the wax emulsified in my ear and just hardened up to the point that it wasn't coming out without digging it out. Now, I had gotten myself into this situation by sticking something into my ear, so as you might guess I was not about to go digging around even deeper in my ear and just make an already terrible situation even worse. So, at 10:30 at night, off to the emergency room we went.
+
+Four hours later, a doctor finally saw me for all of five minutes and used the equivalent of a fancy toothpick to dig out the hardened wax from my ear, and holy moly I could hear! It was like someone had installed Dolby Atmos in my right ear. It was such a crazy experience to lose hearing entirely in one of my ears, even for that short amount of time.
+
+This story is a funny one to look back at and laugh, but for the time that sound was prevented from travelling to the eardrum in my right ear, the only thing I _could_ hear was the high pitched ring that is always present -- the burden of tinnitus. Tinnitus is defined by webmd as follows:
+
+> Tinnitus (pronounced ti-ni-tis), or ringing in the ears, is the sensation of hearing ringing, buzzing, hissing, chirping, whistling, or other sounds. The noise can be intermittent or continuous, and can vary in loudness. It is often worse when background noise is low, so you may be most aware of it at night when you're trying to fall asleep in a quiet room.
+
+I played in the drumline in high school, and a majority of the time I was not wearing ear protection. Drums are LOUD, and they get even louder when you combine 10 or more of them all at once and play at the exact same time. Naive high schooler me thought "whatever, I'll get used to it." Don't be naive high schooler me. If I don't have a fan running at night, I can't sleep because the ringing in my ears gets so loud. Only when it is completely silent do I realize how loud silence actually is.
+
+For the four hours that I couldn't hear out of my right ear, I was brought to the point of tears by the thought of how my life could potentially be this way forever. I wouldn't be able to hear anything but the constant, incessant, high pitched "EEEEEEEE" sound. I don't have it nearly as bad as many others, but it's such a terrible thing no matter how intense it may be. There's currently no cure for it either. Research has been prominent in the past few years, but as of now if you screw your ears up, then you get the pleasure of dealing with screwed up ears for the rest of your life. Don't be the cool guy. Don't shrug it off. _Wear the damn earplugs_.
