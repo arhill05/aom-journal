@@ -1,0 +1,18 @@
+---
+layout: post
+subtitle: And if you're not careful, you won't have any rubber left to burn
+---
+
+Burnout in the sense that I am talking about is when you put forth a significant amount of effort into a hobby or into the work you do for an extended period of time and end up having this feeling that almost feels like depression, or just general sluggishness whenever you have to start doing it again. I'm not talking about the standard amount of effort you exert towards something regularly like your job. I'm talking about then go-above-and-beyond mindset, or the give 150% all the time mindset. You can't maintain that level of effort forever -- it's inevitable that you will experience burnout at some point if you do.
+
+Burnout exists in every industry, but it is particularly prominent in the web development industry. There's always something to improve on, there's always something new coming out that you have to keep up with, there's always legacy code that has to be maintained, and there's always something else to do. A career in web development is a career in learning and a career in a constant stream of new work to do.
+
+Part of me feels like I'm starting to get burned out by this freelance gig that I have going on. The extra money is nice for sure, but it's working with an antiquated platform using a technology that I don't really like working with, and the more code I put into the project the more work it feels like I have to go back and make sure that everything works together. Issues that I've fixed once before return again only for my client to find them before I do, and that is a horrible feeling. When I get an email from him telling me the issue that I fixed previously is back again, I feel bad not only for delivering a poor product, but also because I shouldn't make that mistake in the first place and now I have to go back and fix something that should've already been fixed.
+
+One night this week I sat down to work on the project and I absolutely could not will myself to work on the feature I had decided to work on that evening. I ended up staring at it for about 20 minutes thinking about how I might go about it, and then ended up playing Rocket League instead. A part of me feels like I was just being lazy and I should really do what I say I'm going to dedicate myself to, but a little voice in the back of my head is telling me it may be the onset of burnout.
+
+I'm too prideful to not deliver a finished product for this freelance gig. I have promised a quality solution to a client, and as much as I may not want to work with the tech in it, I'm going to make sure that I build it to the best of my ability so I have something to show for it and my client is happy. I don't think he's thinking my work is poor, but I can't help but have that thought pop into my head when he emails me issues he found. I know that's just part of the development process, and I really shouldn't take it personally like I do.
+
+I'm doing things to try and mitigate the feeling of burnout; things like spending time away from my computer entirely, or taking breaks away from my desk at work instead of browsing Reddit or something similar. I don't think I'm truly getting burned out on my work. I think I just want to work with a new technology, which I haven't gotten the opportunity to do recently.
+
+Or, maybe all of this is jus ta load of bullcrap and I'm just lazy! Who knows. The mind is a crazy thing.
